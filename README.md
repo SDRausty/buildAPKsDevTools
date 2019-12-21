@@ -13,3 +13,6 @@ To install this repository in its' proper place, copy and paste the following in
    ~/buildAPKs/scripts/bash/build/build.developers.tools.bash
 
 ```
+
+Enjoy :smile:
+<!--README.md EOF-->>
