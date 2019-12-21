@@ -15,4 +15,4 @@ To install this repository in its' proper place, copy and paste the following in
 ```
 
 Enjoy :smile:
-<!--README.md EOF-->>
+<!--README.md EOF-->
